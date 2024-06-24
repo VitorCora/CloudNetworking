@@ -1,7 +1,8 @@
 # 
 
 
-![image](https://github.com/VitorCora/CloudNetworking/assets/59590152/7000312a-89f7-4710-83a8-ef2d272c5c3c)
+![image](https://github.com/VitorCora/CloudNetworking/assets/59590152/59894332-fecd-490f-9487-bae7826ff2cd)
+
 
 
 NAT Gateway Communication
@@ -52,9 +53,46 @@ On the Route Table:
 ![image](https://github.com/VitorCora/CloudNetworking/assets/59590152/651f5482-3860-4c10-9c0e-16ef4bc19f7a)
 
 
+## Public Application - Application Load Balancer 
 
+## Server Network Metadata
+
+![image](https://github.com/VitorCora/CloudNetworking/assets/59590152/7a9f5050-9336-4ebb-9f35-dd9226963942)
+
+
+### Load Balancer Network Configuration
+
+![image](https://github.com/VitorCora/CloudNetworking/assets/59590152/b6c0ea39-b770-4a0b-8d11-dfbef29a4ed6)
+
+![image](https://github.com/VitorCora/CloudNetworking/assets/59590152/ae1c2879-dc07-4c85-ab8c-762123610185)
+
+
+
+
+
+### Request
 
 ### Response
 
 ![image](https://github.com/VitorCora/CloudNetworking/assets/59590152/2aced123-31f2-47bf-b2e1-a8b1c30e59fc)
+
+### Flow Logs
+
+Source to Load Balancer:
+
+![image](https://github.com/VitorCora/CloudNetworking/assets/59590152/8b167fec-f8dc-40ed-9b58-cb78890ac63d)
+
+Load Balancer to Instance:
+
+![image](https://github.com/VitorCora/CloudNetworking/assets/59590152/f63bc1b8-ac44-4349-a053-041a48bf4021)
+
+
+
+
+
+
+## Flow Logs Format
+
+
+![image](https://github.com/VitorCora/CloudNetworking/assets/59590152/3778303a-0833-4c74-b06b-2387c6177053)
 
