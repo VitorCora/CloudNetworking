@@ -1,11 +1,6 @@
-# 
+# Cloud Architecting
 
-
-![image](https://github.com/VitorCora/CloudNetworking/assets/59590152/59894332-fecd-490f-9487-bae7826ff2cd)
-
-
-
-NAT Gateway Communication
+## 
 
 | Subnet Name  | Subnet CIDR |
 | ------------- | ------------- |
@@ -27,6 +22,10 @@ NAT Gateway Communication
 |Service 1B| 10.0.20.1/24  |
 
 ## NAT Gateway Communication
+
+### Topology Example
+
+![image](https://github.com/VitorCora/CloudNetworking/assets/59590152/59894332-fecd-490f-9487-bae7826ff2cd)
 
 ### Request
 
@@ -54,6 +53,11 @@ On the Route Table:
 
 
 ## Public Application - Application Load Balancer 
+
+### Topology Example
+
+![image](https://github.com/VitorCora/CloudNetworking/assets/59590152/c6befc75-e040-4ab2-9aa5-72190732da94)
+
 
 ## Server Network Metadata
 
